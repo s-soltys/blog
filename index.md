@@ -1,3 +1,9 @@
+---
+layout: default
+comments: true
+# other options
+---
+
 ## Dzień dobry!!!
 
 You can use the [editor on GitHub](https://github.com/s-soltys/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
